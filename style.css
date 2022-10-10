@@ -1,0 +1,25 @@
+img{
+    width:400;
+    height: 400;
+}
+.footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(255, 210, 127);
+}
+
+body{
+    background-color:rgb(252, 233, 172);
+    font-family: 'Rajdhani', sans-serif;
+}
+
+h1{
+    font-family: 'Reem Kufi Ink', sans-serif;
+
+}
+
+#my_title{
+    background-color: rgb(255, 254, 215);
+}
